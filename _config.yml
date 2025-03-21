@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "Nipul|Profile"
+site_theme               : "default"
 title                    : "Nipul Gordhanbhai Shihora"
 title_separator          : "-"
 name                     : &name "Nipul Gordhanbhai Shihora"
-description              : &description "Mr. Nipul G Shihora is an experienced Libary Information Science Professional working at the Learning Resource Centre of IIT Indore. With a strong background in library and information science, he has made significant contributions to the field throughout his career."
+description              : &description "Mr. Nipul G Shihora is an experienced Libary Information Science Professional working at the Learning Resource Centre of IIT Indore."
 URL                      : "https://nipulshihora.github.io/mycv" # the base hostname & protocol for your site e.g. "https://nipulshihora.github.io/mycv"
 baseurl                  : "https://nipulshihora.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "nipulshihora.github.io"
@@ -22,7 +22,7 @@ repository               : "nipulshihora.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "NipulGShihora.jpeg"
   name             : "Nipul Gordhanbha Shihora"
   pronouns         : "He/His"  
   bio              : "Libary Information Science Professional"
