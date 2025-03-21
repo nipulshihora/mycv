@@ -22,7 +22,7 @@ repository               : "mycv/nipulshihora.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "NipulGShihora.jpeg"
+  avatar           : "NipulGShihora.png"
   name             : "Nipul gordhanbhai Shihora"
   pronouns         : "He/His" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
